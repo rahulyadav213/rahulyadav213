@@ -36,10 +36,17 @@
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulyadav213&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulyadav213&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulyadav213&theme=dark)](https://git.io/streak-stats)
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+  
+
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rahulyadav213&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rahulyadav213&&style=flat-square" align="center" />
 </div>  
  <br/><br/>
 
@@ -59,7 +66,7 @@
 </div>  
 <br/>  
 
-### 🌟 Quote for Inspiration
+### 🌟 Inspiration
  "The real power of AI lies in making life better for everyone, not just a few." –Dabbala Rajagopal Reddy (AI and Machine Learning Pioneer, Turing Award Winner)
 
 <div align="center">
