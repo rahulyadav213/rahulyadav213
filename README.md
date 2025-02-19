@@ -40,11 +40,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rahulyadav213&&style=flat-square" align="center" />
 </div>  
- 
-
-### 🌟 "सफलता अंतिम नहीं है; विफलता घातक नहीं है; इसे जारी रखने का साहस ही मायने रखता है।" – Winston Churchill
-
-Thanks for visiting my profile! 🚀
+ <br/><br/>
 
 
 # Connect with me  
@@ -61,6 +57,11 @@ Thanks for visiting my profile! 🚀
   </a>  
 </div>  
 <br/>  
+
+
+### 🌟 "सफलता अंतिम नहीं है; विफलता घातक नहीं है; इसे जारी रखने का साहस ही मायने रखता है।" – Winston Churchill
+
+<center>Thanks for visiting my profile! 🚀</center>
 
 
 
