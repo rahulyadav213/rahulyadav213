@@ -59,9 +59,11 @@
 <br/>  
 
 
-### 🌟 "सफलता अंतिम नहीं है; विफलता घातक नहीं है; इसे जारी रखने का साहस ही मायने रखता है।" – Winston Churchill
+### 🌟 "Science is not only a disciple of reason but, also, one of romance and passion." – Dr. APJ Abdul Kalam
 
-<center>Thanks for visiting my profile! 🚀</center>
+<div align="center">
+ Thanks for visiting my profile! 🚀
+</div>
 
 
 
