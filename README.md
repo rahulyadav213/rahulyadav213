@@ -1,18 +1,8 @@
-                   
-
-### <div align="center">I'm Rahul Kumar, a full-time data science researcher and Software developer 👨‍💻</div>  
-  
-
-- 🔭 I’m working on implementing computer vision, and deep learning to resolve waste management problems.
-  
-
-- 🌱 My research interests are Machine Learning, Deep Learning, and Computer vision. 
-  
-
-- ❓ Ask me about anything related to Data Science and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+#### 🚀 About Me
+- 🎓 MS by Research in CSE @ IIIT Hyderabad
+- 🔬 Researcher in Machine Learning, Deep Learning, and Computer Vision
+- 🌱 Currently working on **Garbage Vulnerable Points (GVPs) Monitoring**
+- 📜 Aspiring to contribute impactful research in AI and sustainability 
   
 
 <br/>  
