@@ -54,15 +54,8 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
+  
+# Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/rahul-kumar213" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
