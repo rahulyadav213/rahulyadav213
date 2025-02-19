@@ -58,8 +58,8 @@
 </div>  
 <br/>  
 
-
-### 🌟 "The real power of AI lies in making life better for everyone, not just a few." –Dabbala Rajagopal Reddy (AI and Machine Learning Pioneer, Turing Award Winner)
+### 🌟 Quote for Inspiration
+ "The real power of AI lies in making life better for everyone, not just a few." –Dabbala Rajagopal Reddy (AI and Machine Learning Pioneer, Turing Award Winner)
 
 <div align="center">
  Thanks for visiting my profile! 🚀
