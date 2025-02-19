@@ -5,7 +5,7 @@
 - 📜 Aspiring to contribute impactful research in AI and sustainability
 
 
-  <center> #### 🛠️ Tech Stack</center>
+  #### 🛠️ <center>Tech Stack</center>
 
 <center>#### 🎨 Frontend</center>
 <p align="center">
