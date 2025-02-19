@@ -2,7 +2,17 @@
 - 🎓 MS by Research in CSE @ IIIT Hyderabad
 - 🔬 Researcher in Machine Learning, Deep Learning, and Computer Vision
 - 🌱 Currently working on **Garbage Vulnerable Points (GVPs) Monitoring using computer vision**
-- 📜 Aspiring to contribute impactful research in AI and sustainability 
+- 📜 Aspiring to contribute impactful research in AI and sustainability
+
+
+  ### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   
 
 
