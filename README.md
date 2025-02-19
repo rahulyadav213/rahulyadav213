@@ -1,4 +1,4 @@
-#### 🚀 About Me
+####  👋 👋  I'm Rahul Kumar
 - 🎓 MS by Research in CSE @ IIIT Hyderabad
 - 🔬 Researcher in Machine Learning, Deep Learning, and Computer Vision
 - 🌱 Currently working on **Garbage Vulnerable Points (GVPs) Monitoring using computer vision**
