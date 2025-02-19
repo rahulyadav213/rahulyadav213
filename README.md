@@ -1,14 +1,20 @@
 #### 🚀 About Me
 - 🎓 MS by Research in CSE @ IIIT Hyderabad
 - 🔬 Researcher in Machine Learning, Deep Learning, and Computer Vision
-- 🌱 Currently working on **Garbage Vulnerable Points (GVPs) Monitoring**
+- 🌱 Currently working on **Garbage Vulnerable Points (GVPs) Monitoring using computer vision**
 - 📜 Aspiring to contribute impactful research in AI and sustainability 
   
 
-<br/>  
 
+#### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulgithub&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-
+#### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgithub&theme=radical" alt="GitHub Streak" />
+</p>
 
   
 # Connect with me  
