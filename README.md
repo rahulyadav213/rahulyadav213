@@ -38,10 +38,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rahulyadav213&theme=dark)](https://git.io/streak-stats)
 
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
   
 
 <br/>  
